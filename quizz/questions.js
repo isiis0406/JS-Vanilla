@@ -1,7 +1,7 @@
 const data = [
     {
       id: 1,
-      question: "Which of these fish is actually a fish?",
+      question: "Comment chiz s'appelle?",
       answers: [
         { answer: "swordfish", isCorrect: true },
         { answer: "jellyfish", isCorrect: false },

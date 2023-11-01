@@ -1,0 +1,33 @@
+body{
+    /* background-color: blueviolet; */
+}
+.box{
+    width: 200px;
+    height: 200px;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.box1{
+    flex: 3;
+    font-size: 4rem;
+    background-color: rosybrown;
+}
+.box2{
+    flex: 1;
+    background-color: blue;
+}
+.box3{
+    flex: 1;
+
+    background-color: green;
+}
+.box4{
+    flex: 1;
+
+    background-color: red;
+}

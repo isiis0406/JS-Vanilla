@@ -37,6 +37,11 @@ body{
     object-fit: cover;
 }
 
+.bottom{
+    display: flex;
+    gap: 10px;
+} 
+
 .button{
     width:  15px;
     height: 15px;
@@ -44,7 +49,3 @@ body{
     border: solid 1px white;
     cursor: pointer;
 }
-.bottom{
-    display: flex;
-    gap: 10px;
-} 
